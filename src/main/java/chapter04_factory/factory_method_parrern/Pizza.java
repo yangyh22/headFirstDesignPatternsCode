@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 产品类
+ *
  * @author yangyh
  * @date 2018/9/3
  */

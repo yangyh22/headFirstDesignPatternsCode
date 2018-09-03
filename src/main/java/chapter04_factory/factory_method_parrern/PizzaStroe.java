@@ -2,6 +2,7 @@ package chapter04_factory.factory_method_parrern;
 
 
 /**
+ *  创造者类
  * @author yangyh
  * @date 2018/9/3
  */
