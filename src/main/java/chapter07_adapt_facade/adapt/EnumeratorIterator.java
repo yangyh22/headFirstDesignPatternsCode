@@ -1,4 +1,4 @@
-package chapter07_adapt_facade;
+package chapter07_adapt_facade.adapt;
 
 import java.util.Enumeration;
 import java.util.Iterator;
