@@ -1,4 +1,4 @@
-package chapter07_adapt;
+package chapter07_adapt_facade;
 
 
 
